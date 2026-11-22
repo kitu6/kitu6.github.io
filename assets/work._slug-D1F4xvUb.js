@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-ByaQ0wya.js";import{C as t}from"./ProjectTransition-CoRFD0M-.js";import{t as n}from"./work._slug-CtVbmVmz.js";import{t as r}from"./CaseStudy-3-UY3sFP.js";var i=e();function a(){let{study:e}=n.useLoaderData();return t(!0),(0,i.jsx)(r,{study:e},e.slug)}export{a as component};
